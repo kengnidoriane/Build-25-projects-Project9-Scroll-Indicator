@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Project 9: Scroll Indicator
+
+This component can be put in our websites to indicate to the user his progress on the site
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
